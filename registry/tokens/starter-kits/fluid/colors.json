@@ -22,7 +22,7 @@
 
     "text": {
       "normal": {
-        "$value": "{color.neutral.text.normal}"
+        "$value": "{color.cyan.400}"
       },
       "quiet": {
         "$value": "{color.neutral.text.quiet}"
