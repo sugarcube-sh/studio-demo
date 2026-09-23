@@ -1,10 +1,10 @@
 {
   "form-control": {
     "activated-color": {
-      "$value": "{color.accent.fill.loud}"
+      "$value": "{colorrrrr.accent.fill.loud}"
     },
     "background-color": {
-      "$value": "{color.surface.default}"
+      "$value": "{colorrrrr.surface.default}"
     },
     "border-width": {
       "$value": "{border.width.thin}"
@@ -13,7 +13,7 @@
       "$value": "{border.style}"
     },
     "border-color": {
-      "$value": "{color.border.normal}"
+      "$value": "{colorrrrr.border.normal}"
     },
     "radius": {
       "$value": "{radius.lg}"
@@ -25,17 +25,17 @@
       "$value": "{text.sm}"
     },
     "placeholder-color": {
-      "$value": "{color.text.placeholder}"
+      "$value": "{colorrrrr.text.placeholder}"
     },
     "toggle-size": {
       "$type": "dimension",
       "$value": { "value": 1.25, "unit": "rem" }
     },
     "value-color": {
-      "$value": "{color.text.normal}"
+      "$value": "{colorrrrr.text.normal}"
     },
     "label": {
-      "color": { "$value": "{color.text.normal}" },
+      "color": { "$value": "{colorrrrr.text.normal}" },
       "line-height": { "$value": "{leading.tight}" }
     }
   }
