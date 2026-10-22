@@ -332,7 +332,7 @@
       "$value": "#FFFFFF"
     },
     "black": {
-      "$value": "#000000"
+      "$value": "#e11d48"
     },
     "overlay": {
       "$value": "{color.alpha.black.50}"
