@@ -72,9 +72,13 @@
         "10": {
           "$value": {
             "colorSpace": "oklch",
-            "components": [1, 0, 0],
-            "alpha": 0.1,
-            "hex": "#FFFFFF"
+            "components": [
+              1,
+              0,
+              0
+            ],
+            "alpha": 0.544,
+            "hex": "#ffffff"
           }
         },
         "15": {
